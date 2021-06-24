@@ -18,7 +18,7 @@ env:
   DEVICE: sweet
   DT_LINK: https://github.com/aks-glitch/device_xiaomi_sweet-TWRP
   DT_PATH: device/xiaomi/sweet
-  KERNEL_LINK: https://github.com/Pulkit077/kernel_xiaomi_rosy
+  KERNEL_LINK: https://github.com/MiCode/Xiaomi_Kernel_OpenSource
   KERNEL_PATH: kernel/xiaomi/sweet
   TARGET: recoveryimage
   TZ: Asia/Kolkata
