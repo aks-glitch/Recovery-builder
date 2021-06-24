@@ -14,7 +14,7 @@ on:
     types: [started]
 
 env:
-  MANIFEST: git://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git -b android-9.0
+  MANIFEST: git://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
   DEVICE: sweet
   DT_LINK: https://github.com/aks-glitch/device_xiaomi_sweet-TWRP
   DT_PATH: device/xiaomi/sweet
