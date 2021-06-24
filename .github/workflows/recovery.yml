@@ -16,7 +16,7 @@ on:
 env:
   MANIFEST: git://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
   DEVICE: sweet
-  DT_LINK: https://github.com/aks-glitch/device_xiaomi_sweet-TWRP
+  DT_LINK: https://github.com/aks-glitch/Xiaomi_Kernel_OpenSource -b sweet-r-oss
 
   DT_PATH: device/xiaomi/sweet
   KERNEL_LINK: https://github.com/aks-glitch/Xiaomi_Kernel_OpenSource/tree/sweet-r-oss
